@@ -1,13 +1,13 @@
 ## Week 8
-
+## Good Morning!
 ### Module 12 – Working with External Data in C++
 
 **File:** `module12_student_performance.cpp`  
 **Dataset:** `StudentPerformance.csv` (Kaggle)
 
-This program demonstrates how to work with real-world external data in C++ using file input, string processing, and classes.
+My program that I worked on demonstrates how to work with real-world external data in C++ using file input, string processing, and classes.
 
-The program:
+The program consist of:
 - Reads a CSV file containing student performance data
 - Uses a `StudentPerformance` class to store each row
 - Loads at least 10 records from the dataset
